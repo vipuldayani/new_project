@@ -1,0 +1,18 @@
+http://localhost/new_project/
+
+http://localhost/new_project/admin/
+
+http://localhost/new_project/admin/index.php
+
+http://localhost/new_project/admin/dashboard.php
+
+user name - admin@bladephp.co
+
+password - 123456
+
+database name - new_project
+
+password - 
+
+
+
